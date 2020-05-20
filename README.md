@@ -2,7 +2,7 @@
 
 # [Redding](https://github.com/serviceanimals/Redding)
 
-Redding is a missing [service animal](https://www.duckduckgo.com/?q=service+animal+faq+site%3Aada.gov).  Can you help find her?  If you can help, please contributed.
+Redding is a missing [service animal](https://serviceanimals.github.io/).  Can you help find her?  If you can help, please contributed.
 
 [![Redding.20190811_220105.png](./Redding.20190811_220105.png)](https://github.com/serviceanimals/Redding/raw/master/Redding.20190811_220105.png)
 
@@ -12,4 +12,4 @@ Redding is a missing [service animal](https://www.duckduckgo.com/?q=service+anim
 
 <!--    * [Issues at this repository](https://github.com/serviceanimals/Redding/issues) 
 	* [Pulls at this repository](https://github.com/serviceanimals/Redding/pulls) 
-# README.md EOF -->
+Redding README.md EOF -->
